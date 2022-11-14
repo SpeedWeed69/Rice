@@ -1,0 +1,16 @@
+if game.PlaceId == 7655745946 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Aidanman14/RiceHub/idk/DunkingSimulator"))()
+    elseif game.PlaceId == 9498006165 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Aidanman14/RiceHub/idk/TappingSimulator"))()
+    
+    elseif game.PlaceId == 3177438863 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Aidanman14/RiceHub/idk/DragonBlox"))()
+    
+    
+    
+    
+        
+        else
+            warn("Game not supported!")
+    end
+ 
