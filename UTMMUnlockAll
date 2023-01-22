@@ -1,0 +1,8 @@
+print("Made By Aidanman14#2145")
+warn("Made By Aidanman14#2145")
+
+local ohInstance1 = game:GetService("Lighting").Weapons["stupid hacker"]
+local ohString2 = "Weapon"
+
+game:GetService("Lighting").Buy:FireServer(ohInstance1, ohString2)
+
